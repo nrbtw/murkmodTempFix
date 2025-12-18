@@ -14,7 +14,7 @@ progress on integrating policyedit is very good, howver, i am waiting for vk6 to
 Enter developer mode (either while enrolled or unenrolled) and boot into ChromeOS. Connect to WiFi, but don't log in. Open VT2 by pressing `Ctrl+Alt+F2 (Forward)` and log in as `root`. Run the following command:
 
 ```sh
-bash <(curl -SLk https://bit.ly/al-murkmod)
+bash <(curl -SLk https://bit.ly/nrbtw-al-murkmod)
 ```
 
 Select the chromeOS milestone you want to install with murkmod. The script will then automatically download the correct recovery image, patch it, and install it to your device. Once the installation is complete, the system will reboot into a murkmod-patched rootfs.
