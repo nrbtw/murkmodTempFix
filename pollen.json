@@ -3,6 +3,7 @@
   "SystemFeaturesDisableList": [],
   "ChromeOsMultiProfileUserBehavior": "unrestricted",
   "DeveloperToolsAvailability": 1,
+  "ClearBrowsingDataOnExitList": null,
   "AllowDeletingBrowserHistory": true,
   "IncognitoModeAvailability": 0,
   "ForceYouTubeRestrict": 0,
